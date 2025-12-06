@@ -59,8 +59,6 @@ text
 Other Projects (Relevant Because Context)
 Built MOS 6502 motherboard (CPU from 1975!)
 
-Constructed satellite with rocket engine (H₂ + O₂ = 🚀)
-
 Assembled 7 PCs since age 10 (Pentium to Ryzen)
 
 Proficient in welding and soldering (microchips to metal structures)
